@@ -1,3 +1,11 @@
+# ⚠️ DEPRECATED
+
+**This project is no longer maintained.** Its functionality has been moved to [ktsu.ImGuiApp](https://github.com/ktsu-dev/ImGuiApp).
+
+Please migrate to the new library for continued support and updates.
+
+---
+
 # ImGuiStyler 🎨
 
 [![Version](https://img.shields.io/badge/version-1.3.10-blue.svg)](VERSION.md)
